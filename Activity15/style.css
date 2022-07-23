@@ -1,9 +1,0 @@
-body{
-    background-color: rgb(196, 200, 207);
-}
-div.container{
-    max-width: 450px;
-    width: 100%;
-    background-color: #ffffff;
-    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, .2);
-}
